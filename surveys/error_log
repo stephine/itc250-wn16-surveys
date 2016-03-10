@@ -1,0 +1,5 @@
+[09-Feb-2016 17:59:08 America/Detroit] PHP Parse error:  syntax error, unexpected ''<a href="">xxx</a>'' (T_CONSTANT_ENCAPSED_STRING) in /home/mat1/public_html/janetrockas/wn16/surveys/index.php on line 61
+[09-Feb-2016 18:00:03 America/Detroit] PHP Parse error:  syntax error, unexpected ''<a href="">xxx</a>'' (T_CONSTANT_ENCAPSED_STRING) in /home/mat1/public_html/janetrockas/wn16/surveys/index.php on line 61
+[09-Feb-2016 18:00:05 America/Detroit] PHP Parse error:  syntax error, unexpected ''<a href="">xxx</a>'' (T_CONSTANT_ENCAPSED_STRING) in /home/mat1/public_html/janetrockas/wn16/surveys/index.php on line 61
+[08-Mar-2016 17:46:06 America/Detroit] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/mat1/public_html/janetrockas/wn16/surveys/survey_view-test.php on line 50
+[08-Mar-2016 17:50:01 America/Detroit] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/mat1/public_html/janetrockas/wn16/surveys/survey_view-test.php on line 50
